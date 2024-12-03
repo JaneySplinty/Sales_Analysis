@@ -24,7 +24,8 @@ This project aims to solve the challenges faced in a business by  answering some
 
 ## Exploratory Data Analysis and Visualization
 The dashboard visualizes key metrics such as total revenue, profit, number of orders, and quantity sold. Additionally, it provides a breakdown of revenue by region and sub-category, profit by category and shipping modes used.
-![image]()
+
+![](images/sales_analysis.png)
 
 ## Findings
 **1. Revenue by Region:**
